@@ -1,6 +1,6 @@
 {
   "name": "a2",
-  "version": "0.1.1668759364008",
+  "version": "0.1.1668760764207",
   "private": true,
   "scripts": {
     "prepare": "husky install",
@@ -10,7 +10,7 @@
     "lint": "next lint -d .",
     "lint:fix": "next lint -d . --fix",
     "update-version": "node scripts/update-version.js",
-    "test": "jest -c jest.config.js --coverage"
+    "test": "jest -c jest.config.js"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
