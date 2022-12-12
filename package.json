@@ -1,6 +1,6 @@
 {
   "name": "a2",
-  "version": "0.1.1668760764207",
+  "version": "0.1.1670810406375",
   "private": true,
   "scripts": {
     "prepare": "husky install",
